@@ -1,0 +1,16 @@
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.csprojAssemblyReference.cache
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.Form1.resources
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.Properties.Resources.resources
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.csproj.GenerateResource.cache
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.csproj.CoreCompileInputs.cache
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EF_CodeFirstMimarisi.exe.config
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EF_CodeFirstMimarisi.exe
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EF_CodeFirstMimarisi.pdb
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EntityFramework.dll
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EntityFramework.xml
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.csproj.CopyComplete
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.exe
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.pdb
+D:\Projects\5-EntityFramework\EF_CodeFirstMimarisi\EF_CodeFirstMimarisi\obj\Debug\EF_CodeFirstMimarisi.RaporForm.resources
